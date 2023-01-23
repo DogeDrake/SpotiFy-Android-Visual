@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Inicio"
+        android:icon="@drawable/ic_outline_home_24"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/Buscard"
+        android:icon="@drawable/ic_outline_search_24"
+        android:title="Buscar" />
+    <item
+        android:id="@+id/Library"
+        android:icon="@drawable/ic_baseline_sort_24"
+        android:title="Tu Biblioteca" />
+    <item
+        android:id="@+id/premium"
+        android:icon="@drawable/ic_outline_contactless_24"
+        android:iconTint="@color/white"
+        android:title="Premium" />
+</menu>

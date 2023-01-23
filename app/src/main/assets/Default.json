@@ -1,0 +1,354 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Metal",
+      "artist": "22.222.222",
+      "image": "https://i.scdn.co/image/ab67706f0000000258553a8aa7b94aa853a4be34",
+      "songs": [
+        {
+          "name": "Canción 1",
+          "artist": "Artista 1",
+          "image": "https://example.com/song1.jpg"
+        },
+        {
+          "name": "Canción 2",
+          "artist": "Artista 1",
+          "image": "https://example.com/song2.jpg"
+        },
+        {
+          "name": "Canción 3",
+          "artist": "Artista 1",
+          "image": "https://example.com/song3.jpg"
+        },
+        {
+          "name": "Canción 4",
+          "artist": "Artista 1",
+          "image": "https://example.com/song4.jpg"
+        },
+        {
+          "name": "Canción 5",
+          "artist": "Artista 1",
+          "image": "https://example.com/song5.jpg"
+        },
+        {
+          "name": "Canción 6",
+          "artist": "Artista 1",
+          "image": "https://example.com/song6.jpg"
+        },
+        {
+          "name": "Canción 7",
+          "artist": "Artista 1",
+          "image": "https://example.com/song7.jpg"
+        },
+        {
+          "name": "Canción 8",
+          "artist": "Artista 1",
+          "image": "https://example.com/song8.jpg"
+        },
+        {
+          "name": "Canción 9",
+          "artist": "Artista 1",
+          "image": "https://example.com/song9.jpg"
+        },
+        {
+          "name": "Canción 10",
+          "artist": "Artista 1",
+          "image": "https://example.com/song10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Video Games",
+      "artist": "17.237.878",
+      "image": "https://i.scdn.co/image/ab67706f00000002c60f140dc10397e80ea424d9",
+      "songs": [
+        {
+          "name": "Canción 1",
+          "artist": "Artista 1",
+          "image": "https://example.com/song1.jpg"
+        },
+        {
+          "name": "Canción 2",
+          "artist": "Artista 1",
+          "image": "https://example.com/song2.jpg"
+        },
+        {
+          "name": "Canción 3",
+          "artist": "Artista 1",
+          "image": "https://example.com/song3.jpg"
+        },
+        {
+          "name": "Canción 4",
+          "artist": "Artista 1",
+          "image": "https://example.com/song4.jpg"
+        },
+        {
+          "name": "Canción 5",
+          "artist": "Artista 1",
+          "image": "https://example.com/song5.jpg"
+        },
+        {
+          "name": "Canción 6",
+          "artist": "Artista 1",
+          "image": "https://example.com/song6.jpg"
+        },
+        {
+          "name": "Canción 7",
+          "artist": "Artista 1",
+          "image": "https://example.com/song7.jpg"
+        },
+        {
+          "name": "Canción 8",
+          "artist": "Artista 1",
+          "image": "https://example.com/song8.jpg"
+        },
+        {
+          "name": "Canción 9",
+          "artist": "Artista 1",
+          "image": "https://example.com/song9.jpg"
+        },
+        {
+          "name": "Canción 10",
+          "artist": "Artista 1",
+          "image": "https://example.com/song10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Movies Music",
+      "artist": "24.723.214",
+      "image": "https://i.scdn.co/image/ab67706f00000002cdcbbcc66e1aee5ed8e79cfe",
+      "songs": [
+        {
+          "name": "Canción 1",
+          "artist": "Artista 1",
+          "image": "https://example.com/song1.jpg"
+        },
+        {
+          "name": "Canción 2",
+          "artist": "Artista 1",
+          "image": "https://example.com/song2.jpg"
+        },
+        {
+          "name": "Canción 3",
+          "artist": "Artista 1",
+          "image": "https://example.com/song3.jpg"
+        },
+        {
+          "name": "Canción 4",
+          "artist": "Artista 1",
+          "image": "https://example.com/song4.jpg"
+        },
+        {
+          "name": "Canción 5",
+          "artist": "Artista 1",
+          "image": "https://example.com/song5.jpg"
+        },
+        {
+          "name": "Canción 6",
+          "artist": "Artista 1",
+          "image": "https://example.com/song6.jpg"
+        },
+        {
+          "name": "Canción 7",
+          "artist": "Artista 1",
+          "image": "https://example.com/song7.jpg"
+        },
+        {
+          "name": "Canción 8",
+          "artist": "Artista 1",
+          "image": "https://example.com/song8.jpg"
+        },
+        {
+          "name": "Canción 9",
+          "artist": "Artista 1",
+          "image": "https://example.com/song9.jpg"
+        },
+        {
+          "name": "Canción 10",
+          "artist": "Artista 1",
+          "image": "https://example.com/song10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Rock",
+      "artist": "10.650.033",
+      "image": "https://i.scdn.co/image/ab67706f0000000237ddb11424d6babc80f304ac",
+      "songs": [
+        {
+          "name": "Canción 1",
+          "artist": "Artista 1",
+          "image": "https://example.com/song1.jpg"
+        },
+        {
+          "name": "Canción 2",
+          "artist": "Artista 1",
+          "image": "https://example.com/song2.jpg"
+        },
+        {
+          "name": "Canción 3",
+          "artist": "Artista 1",
+          "image": "https://example.com/song3.jpg"
+        },
+        {
+          "name": "Canción 4",
+          "artist": "Artista 1",
+          "image": "https://example.com/song4.jpg"
+        },
+        {
+          "name": "Canción 5",
+          "artist": "Artista 1",
+          "image": "https://example.com/song5.jpg"
+        },
+        {
+          "name": "Canción 6",
+          "artist": "Artista 1",
+          "image": "https://example.com/song6.jpg"
+        },
+        {
+          "name": "Canción 7",
+          "artist": "Artista 1",
+          "image": "https://example.com/song7.jpg"
+        },
+        {
+          "name": "Canción 8",
+          "artist": "Artista 1",
+          "image": "https://example.com/song8.jpg"
+        },
+        {
+          "name": "Canción 9",
+          "artist": "Artista 1",
+          "image": "https://example.com/song9.jpg"
+        },
+        {
+          "name": "Canción 10",
+          "artist": "Artista 1",
+          "image": "https://example.com/song10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Anime Hits",
+      "artist": "18.597.654",
+      "image": "https://i.scdn.co/image/ab67706f000000027fce01e76700295e0ece70a2",
+      "songs": [
+        {
+          "name": "Canción 1",
+          "artist": "Artista 1",
+          "image": "https://example.com/song1.jpg"
+        },
+        {
+          "name": "Canción 2",
+          "artist": "Artista 1",
+          "image": "https://example.com/song2.jpg"
+        },
+        {
+          "name": "Canción 3",
+          "artist": "Artista 1",
+          "image": "https://example.com/song3.jpg"
+        },
+        {
+          "name": "Canción 4",
+          "artist": "Artista 1",
+          "image": "https://example.com/song4.jpg"
+        },
+        {
+          "name": "Canción 5",
+          "artist": "Artista 1",
+          "image": "https://example.com/song5.jpg"
+        },
+        {
+          "name": "Canción 6",
+          "artist": "Artista 1",
+          "image": "https://example.com/song6.jpg"
+        },
+        {
+          "name": "Canción 7",
+          "artist": "Artista 1",
+          "image": "https://example.com/song7.jpg"
+        },
+        {
+          "name": "Canción 8",
+          "artist": "Artista 1",
+          "image": "https://example.com/song8.jpg"
+        },
+        {
+          "name": "Canción 9",
+          "artist": "Artista 1",
+          "image": "https://example.com/song9.jpg"
+        },
+        {
+          "name": "Canción 10",
+          "artist": "Artista 1",
+          "image": "https://example.com/song10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Indie",
+      "artist": "20.220.208",
+      "image": "https://i.scdn.co/image/ab67706f00000002adb740ce85d1193136a9f9a0",
+      "songs": [
+        {
+          "name": "Canción 1",
+          "artist": "Artista 1",
+          "image": "https://example.com/song1.jpg"
+        },
+        {
+          "name": "Canción 2",
+          "artist": "Artista 1",
+          "image": "https://example.com/song2.jpg"
+        },
+        {
+          "name": "Canción 3",
+          "artist": "Artista 1",
+          "image": "https://example.com/song3.jpg"
+        },
+        {
+          "name": "Canción 4",
+          "artist": "Artista 1",
+          "image": "https://example.com/song4.jpg"
+        },
+        {
+          "name": "Canción 5",
+          "artist": "Artista 1",
+          "image": "https://example.com/song5.jpg"
+        },
+        {
+          "name": "Canción 6",
+          "artist": "Artista 1",
+          "image": "https://example.com/song6.jpg"
+        },
+        {
+          "name": "Canción 7",
+          "artist": "Artista 1",
+          "image": "https://example.com/song7.jpg"
+        },
+        {
+          "name": "Canción 8",
+          "artist": "Artista 1",
+          "image": "https://example.com/song8.jpg"
+        },
+        {
+          "name": "Canción 9",
+          "artist": "Artista 1",
+          "image": "https://example.com/song9.jpg"
+        },
+        {
+          "name": "Canción 10",
+          "artist": "Artista 1",
+          "image": "https://example.com/song10.jpg"
+        }
+      ]
+    }
+  ]
+}
+
+

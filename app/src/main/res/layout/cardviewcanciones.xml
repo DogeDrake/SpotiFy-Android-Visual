@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp"
+        android:backgroundTint="@color/spotiDarkGray">
+
+        <ImageView
+            android:id="@+id/imageViewS"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@color/purple_500" />
+
+        <TextView
+            android:id="@+id/mytextoS"
+            android:layout_width="186dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top"
+            android:layout_marginTop="18dp"
+            android:text="Mi texto"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:textColor="@color/white"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/myvaloracionS"
+            android:layout_width="189dp"
+            android:layout_height="34dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@android:color/transparent"
+            android:text="Mi texto"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:textColor="@color/Gray"
+            android:textSize="12dp" />
+
+        <ImageButton
+            android:id="@+id/favButton"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="end|center"
+            android:layout_marginEnd="60dp"
+            android:background="@color/transparent"
+            app:srcCompat="@drawable/ic_baseline_favorite_border_24" />
+
+        <ImageButton
+            android:id="@+id/DelButton"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_gravity="end|center"
+            android:layout_marginEnd="30dp"
+            android:background="@color/transparent"
+            app:srcCompat="@drawable/ic_baseline_remove_circle_outline_24" />
+
+        <ImageButton
+            android:id="@+id/MoreButton"
+            android:layout_width="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_height="80dp"
+            android:layout_gravity="end"
+            android:background="@color/transparent"
+            app:srcCompat="@drawable/ic_baseline_more_vert_24" />
+
+
+    </com.google.android.material.card.MaterialCardView>
+
+
+</LinearLayout>
